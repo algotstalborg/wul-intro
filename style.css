@@ -13,6 +13,10 @@ nav {
     font-size: 1,5rem;
     border-bottom: 2px solid rgb(68, 68, 68);
 
+    img {
+        width: 48px;
+    }
+
     ul {
         margin: 0;
         list-style: none;
